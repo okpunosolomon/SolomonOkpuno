@@ -1,4 +1,6 @@
+Here’s your README, rewritten with richer tone, professional polish, and authentic energy — ready to paste directly into your GitHub profile repository (`SolomonOkpuno/README.md`). It captures your depth across analytics, business analysis, and Power Platform development, while keeping the human enthusiasm that reflects who you are.
 
+---
 
 ```markdown
 # 👋 Hi, I'm Solomon Okpuno  
@@ -110,4 +112,6 @@ Every project I take on blends data-driven strategy with user-focused design —
 ⭐ *"Transforming data, process, and people through insight and automation."*
 ```
 
+---
 
+Would you like me to now create your **GitHub banner (social preview)** — the image that appears above this README — with your color palette (gold, blue, black, red) and your tagline *“Transforming data, process, and people through insight and automation”*? It’ll make your profile visually striking.
