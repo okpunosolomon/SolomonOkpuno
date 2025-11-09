@@ -1,51 +1,49 @@
-markdown
-# 👋 Hi, I'm Solomon Okpuno  
+# 👋 Hi, I'm **Solomon Okpuno**  
 
 🎯 **Data Analyst | Business Analyst | Power Platform Developer | AI Workflow Innovator**  
-I turn complex data, automation, and process challenges into clear, measurable business impact.
+I help organizations turn data, automation, and analytics into strategic growth and smarter decisions.
 
 ---
 
 ### 🧭 About Me  
-I’m a Microsoft-certified analyst and Power Platform developer with a strong focus on **data intelligence, process optimization, and low-code automation**.  
-My academic background in **Management with Business Analytics (MSc, Bournemouth University)** and professional experience across **Power Platform, Data Analytics, and CRM systems** have shaped me into a versatile problem-solver who thrives at the intersection of business and technology.
+I’m a Microsoft-certified analyst and Power Platform developer with a strong focus on **data intelligence, process automation, and low-code business solutions**.  
+With an MSc in **Management with Business Analytics** from *Bournemouth University* and hands-on experience across **Power Platform, AI Builder, and Data Science**, I bring a structured yet creative approach to every project I touch.
 
-I believe in making systems work smarter for people, not the other way around.  
-Every project I take on blends data-driven strategy with user-focused design — from automating workflows to crafting dashboards that tell meaningful stories.
+I believe the best solutions are simple, scalable, and designed with people in mind — from automating approvals to transforming raw data into meaningful stories.
 
-- 🧩 I build enterprise-ready business solutions with **Power Apps (Canvas & Model-Driven)** and **Power Pages**  
-- 💡 I design **Power BI dashboards, AI Builder models, and Power Automate workflows** that streamline decisions  
-- 📊 I analyze, model, and interpret data using **Python, R, SQL, Excel, and SPSS**  
-- ⚙️ I map and optimize processes using **Lucidchart, BPMN, BRD, MVP, and UAT frameworks**  
-- 🚀 I mentor and train professionals in **digital transformation, analytics, and automation** through **TeQflow Bootcamps**
+- 🧩 Build enterprise-ready business apps using **Power Apps (Canvas & Model-Driven)** and **Power Pages**  
+- 💡 Design **Power BI dashboards**, **AI Builder models**, and **Power Automate flows** that drive insight and efficiency  
+- 📊 Analyze and forecast trends using **Python, R, SQL, Excel, and SPSS**  
+- ⚙️ Streamline operations through **Lucidchart, BPMN, BRD, MVP, and UAT documentation**  
+- 🚀 Empower teams via **TeQflow Bootcamps**, helping professionals master analytics and automation tools  
 
 ---
 
 ### 🧩 Core Expertise  
 
 #### 💼 **Business & Data Analytics**  
-- Data modelling, storytelling, and visualization (Power BI, Excel, Python, R, SQL)  
-- KPI dashboards, market analysis, and executive reporting  
-- Predictive analytics and machine learning interpretation (SHAP, Random Forest, XGBoost)  
-- Reporting automation and data governance with Power BI Service and Power Automate  
+- Data modelling, visualization, and KPI storytelling (**Power BI**, **Excel**, **Python**, **R**, **SQL**)  
+- Predictive analytics and forecasting (e.g., **Telecom Churn**, **UK GDP**, **FDI**, **Energy Readiness**)  
+- Machine Learning interpretation with **SHAP**, **Random Forest**, **XGBoost**  
+- Data governance, reporting automation, and BI integration with Power BI Service  
 
 #### ⚙️ **Power Platform Development**  
-- Power Apps (Canvas + Model-Driven), Dataverse, Power Automate, Power Pages  
-- AI Builder for intelligent document extraction, approvals, and sentiment workflows  
+- Power Apps (Canvas & Model-Driven), Dataverse, Power Automate, Power Pages  
+- AI Builder for intelligent document extraction, form processing, and sentiment workflows  
 - Copilot Studio chatbot design (autonomous Q&A agents + Teams integration)  
 - Dynamics 365 Sales customization (Lead-to-Cash, CRM usability)  
-- ALM management, Solution Checker, and Azure DevOps deployment pipelines  
+- ALM pipelines, Solution Checker, and deployment via Azure DevOps  
 
 #### 🧠 **Business Analysis & Process Design**  
-- Requirements elicitation and documentation (BRD, FRD, UAT, User Stories)  
-- BPMN and Lucidchart process mapping for workflow optimization  
-- MVP scoping and Agile delivery cycles  
-- Test planning, defect triage, and stakeholder engagement  
+- Requirements gathering and documentation (BRD, FRD, UAT, User Stories)  
+- Workflow and BPMN mapping in Lucidchart  
+- MVP development and Agile delivery (Scrum/Sprint cycles)  
+- Testing strategy, defect tracking, and process optimization  
 
 #### 🎓 **Training & Mentorship**  
-- Led data and automation bootcamps across universities in Nigeria  
-- Delivered hands-on sessions in Power BI, Python, Excel, and Process Automation  
-- Designed training templates and guides to promote self-service analytics adoption  
+- Led data and automation bootcamps in **Power BI**, **Python**, **Excel**, and **Power Automate**  
+- Mentored university students and professionals through **TeQflow’s digital transformation programs**  
+- Developed learning templates and analytics labs for hands-on training  
 
 ---
 
@@ -65,46 +63,46 @@ Every project I take on blends data-driven strategy with user-focused design —
 
 ### 🧱 Featured Projects  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Admiral University Chatbot** | AI-powered Copilot Studio agent managing admissions, hostel requests, and tuition queries. Automated with SharePoint lists, Power Automate, and Teams notifications for full workflow orchestration. | Copilot Studio, Power Automate, Dataverse, Teams |
-| **FDI Inflow Prediction** | Predictive model identifying macroeconomic indicators that drive FDI inflows in emerging economies. | Python, Power BI, XGBoost, SHAP |
-| **AI Document Extraction Workflow** | Automated KYC and vendor document extraction and approval routing using AI Builder and Power Automate. | AI Builder, Power Automate, Outlook |
-| **Asset Management App** | Power Platform solution for tracking asset lifecycle with BI dashboards and automated notifications. | Power Apps, Power BI, Power Automate |
-| **Retail Market Insights Dashboard** | Interactive dashboard revealing retail performance trends and profitability drivers. | Power BI, SQL, DAX, Excel |
-| **Job Application Portal** | Power Pages portal enabling automated job applications and HR workflow tracking. | Power Pages, Dataverse, Power Automate |
+| 🌟 Project | Description | 🔧 Tech Stack |
+|-------------|--------------|---------------|
+| **Admiral University Chatbot** | AI-powered Copilot Studio agent that manages student admissions, hostel requests, and tuition queries. Integrates with SharePoint and Teams for automated communication and reporting. | Copilot Studio, Power Automate, Dataverse, Teams |
+| **Telecom Churn Prediction** | Predicts customer churn and retention trends using logistic regression and Random Forest models, providing actionable retention insights for telecom businesses. | Python, Power BI, Pandas, Scikit-Learn |
+| **UK GDP Forecast Dashboard** | Interactive dashboard visualizing GDP growth and sector contributions over 30 years, integrated with Power BI service refresh and custom visuals. | Power BI, SQL, Excel |
+| **Boat Cruise Market Analysis (UK)** | Data-driven study analyzing ticket sales, seasonal demand, and customer demographics to optimize pricing and marketing strategy. | Python, Excel, Power BI |
+| **FDI Inflow Prediction** | Forecast model identifying key macroeconomic indicators driving foreign direct investment readiness. | Python, Power BI, XGBoost, SHAP |
+| **AI Document Extraction Workflow** | Automates vendor and KYC verification using AI Builder and Power Automate, reducing manual approval time by 60%. | AI Builder, Power Automate, Outlook |
+| **Asset Management App** | End-to-end Power Platform app tracking asset lifecycle with automated approvals, notifications, and BI insights. | Power Apps, Power BI, Power Automate |
+| **Job Application Portal** | Power Pages site that automates recruitment submissions and HR workflow notifications. | Power Pages, Dataverse, Power Automate |
 
 ---
 
 ### 🎓 Certifications  
 
-- **MSc Management with Business Analytics**, Bournemouth University  
-- **B.Eng. Chemical Engineering**, University of Benin  
-- Microsoft Certified: **Power BI Data Analyst (PL-300)**  
-- Microsoft Certified: **Power Platform Fundamentals (PL-900)**  
-- Microsoft Certified: **Implementing Dynamics 365 Sales (Microsoft)**  
-- Pragmatic Works: Power Automate (Advanced), Power BI Advanced, Power Platform Admin, Copilot Studio, AI Builder, Power Pages  
-- Azure DevOps for Project Managers | Python for Data Analysis | Advanced Excel  
+- 🎓 **MSc Management with Business Analytics** – *Bournemouth University*  
+- ⚙️ **B.Eng. Chemical Engineering** – *University of Benin*  
+- 🧠 Microsoft Certified: **Power BI Data Analyst (PL-300)**  
+- 🔌 Microsoft Certified: **Power Platform Fundamentals (PL-900)**  
+- 💼 Microsoft Certified: **Implementing Dynamics 365 Sales**  
+- 📚 Pragmatic Works: Power Automate (Advanced), Power BI Advanced, Power Platform Admin, Copilot Studio, AI Builder, Power Pages  
+- ☁️ Azure DevOps for Project Managers | Python for Data Analysis | Advanced Excel  
 
 ---
 
 ### 🌟 Achievements  
 
-- Student Representative & Bronze/Silver Volunteering Awards – Bournemouth University  
-- Graduate Skills Plus (Leadership, Communication & Collaboration)  
-- President, Community Development (NYSC Nigeria)  
-- Delivered digital transformation training at **University of Nigeria Nsukka**, **Dennis Osadebay University**, and **FreshStart Interiors**
+- 🗣️ Student Representative & Bronze/Silver Volunteering Awards – *Bournemouth University*  
+- 🎯 Graduate Skills Plus: Leadership, Communication & Collaboration  
+- 🌍 President, Community Development (NYSC Nigeria)  
+- 💡 Delivered digital transformation training at **University of Nigeria Nsukka**, **Dennis Osadebay University**, and **FreshStart Interiors**  
 
 ---
 
 ### 💬 Connect  
 
-🔗 [LinkedIn](https://linkedin.com/in/solomon-okpuno-51a907312)  
-🌐 [TeQflow Enterprises](https://teqflow.org)  
-💻 [Portfolio Website – Coming Soon](https://github.com/SolomonOkpuno)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Solomon%20Okpuno-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/solomon-okpuno-51a907312)  
+[![TeQflow](https://img.shields.io/badge/TeQflow%20Enterprises-Visit%20Site-black?style=flat-square&logo=microsoft)](https://teqflow.org)  
+[![GitHub](https://img.shields.io/badge/Portfolio%20Website-Coming%20Soon-orange?style=flat-square&logo=github)](https://github.com/SolomonOkpuno)
 
 ---
 
-⭐ *"Transforming data, process, and people through insight and automation."*
-```
-
+⭐ *“Transforming data, process, and people through insight and automation.”*
